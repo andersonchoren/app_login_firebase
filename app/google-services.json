@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306186614463",
+    "project_id": "app-login-b9225",
+    "storage_bucket": "app-login-b9225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306186614463:android:9d529e924b78f90423f80a",
+        "android_client_info": {
+          "package_name": "br.com.andersonchoren.logincomfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306186614463-b9c7nmr45da0l5g79smevhqugn3em7rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCiXPAN1b7ZZefiJW8SuxeIAhqAfxcT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306186614463-b9c7nmr45da0l5g79smevhqugn3em7rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

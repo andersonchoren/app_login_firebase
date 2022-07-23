@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Com Firebase</string>
+    <string name="label_btn_logar">Sign</string>
+    <string name="label_btn_register">Register</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+</resources>

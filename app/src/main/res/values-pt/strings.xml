@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login Com Firebase</string>
+    <string name="label_btn_logar">Entrar</string>
+    <string name="label_btn_register">Registrar</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Senha</string>
+</resources>
